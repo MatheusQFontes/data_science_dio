@@ -1,2 +1,2 @@
-# dio_bi_analyst
-Desafios de Projeto de análise de dados da Digital Innovation One.
+# data_science_dio
+Desafios de Projeto de Data Science da Digital Innovation One.
